@@ -1,14 +1,17 @@
-# Proyek_analisis
+#  Proyek Analisis ✨
 
-Setup proyek
-
-**1. install requirements**
+## Setup Environment - Anaconda
 ```
-  $ pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
-**2. run streamllit**
+## Setup Environment - Shell/Terminal
 ```
-  $ cd dashboard
-  $ streamlit run main.py
+pip install -r requirements.txt
+```
+
+## Run steamlit app
+```
+cd dashboard
+streamlit run dashboard.py
 ```
